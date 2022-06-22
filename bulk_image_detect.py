@@ -6,8 +6,8 @@ import numpy as np
 input_dir = r'input_images'
 output_dir = r'output_images'
 
-yolo_cfg = r'backup_LV_300/yolov3-custom.cfg'
-yolo_weights = r'backup_LV_300/yolov3-custom_final.weights'
+yolo_cfg = r'LV_model_cfg_dir/yolov3-custom.cfg'
+yolo_weights = r'LV_model_cfg_dir/yolov3-custom_final.weights'
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
