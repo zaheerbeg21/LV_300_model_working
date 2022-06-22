@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1yynElYihUrUwSt0vSaiCIHrp1Qbxg0QE/view?usp=shari
 NOTE- 
 Kindly check yolo_cfg path and yolo_weights path
 
-Model directory contains model and cfg file
+Model(LV_model_cfg_dir) directory contains model and cfg file
 
 
 
